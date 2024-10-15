@@ -1,11 +1,14 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.vscode/
 *.py[cod]
 *$py.class
 
+*.docx
+*.tmp
 # C extensions
 *.so
-
+*.ps1
 # Distribution / packaging
 .Python
 build/
